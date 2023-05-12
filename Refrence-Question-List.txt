@@ -1,0 +1,15 @@
+1. Read your CSV file (Dataset) into DataFrame as df
+2. Get the total count of Color and Black/White movies
+3. Plot bar graph and Pie chart for the above movies count
+4. Display all the unique director names
+5. Display all the diffent generes of movie
+6. Get the total count of movies released in New Zealand
+7. List all the movies with all details which were released in New Zealand
+8. Dispaly the bargraph with count for the movies which are released in Austraial, Germany and Japan
+9. Get the list of 5 movies with highest budget
+10. Dispaly the list of movies which are released in year 2009
+11. Dispaly the list of movies which are released in year 2009 and does not belgon to USA
+12. Get the Count for movies which has duration less than 100 and greater than 100 and plot the bar graph for same
+13. List the top 10 director names for highest director-facebook likes
+14. Display the list of movies for top 5 with movie-facebook likes
+15. Plot the graph for top 5 movie facebook likes
